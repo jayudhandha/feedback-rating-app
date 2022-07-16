@@ -1,5 +1,4 @@
-import { useState } from "react"
-import { BrowserRouter, Route, Router, Routes } from "react-router-dom"
+import { Route, Routes } from "react-router-dom"
 import "./App.css"
 import AboutLinkIcon from "./components/AboutLinkIcon"
 import FeedbackForm from "./components/FeedbackForm"
